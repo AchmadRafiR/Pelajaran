@@ -1,0 +1,10 @@
+<?php 
+
+    $db = "dbtoko";
+    $user = "localhost";
+    $host= "root";
+    $password = "";
+
+    $koneksi = new mysqli($user, $host, $password, $db);
+
+?>
