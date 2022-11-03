@@ -1,0 +1,23 @@
+ul {
+    background: red;
+    list-style: none;
+}
+
+ul li{
+    color: yellow;
+    background-color: red;
+
+}
+
+ul li a{
+    color: yellow;
+}
+
+ul li:hover{
+    background: black;
+    cursor: pointer;
+}
+
+ul li ul{
+    background: black;
+}
